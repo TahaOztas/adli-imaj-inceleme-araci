@@ -1,0 +1,3 @@
+PyQt5
+pytsk3
+libewf-python
